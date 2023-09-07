@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "0619", "0689" ]
+    branches: [ "0619", "0689", "0199" ]
 
 permissions:
   contents: read
